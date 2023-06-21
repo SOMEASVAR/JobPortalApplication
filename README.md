@@ -169,4 +169,4 @@ export default App;
 
 ## Result:
 
-Thus we have successfully created an employee onboarding application using SpringBoot and SQL.
+Thus we have successfully created an job portal application using SpringBoot and SQL.
