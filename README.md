@@ -20,7 +20,7 @@ To create an job portal application using SpringBoot and SQL.
 
 ## Program:
 
-Employee.java
+JobPortal.java
 ```
 package com.Jobportal.jobportal.job;
 
@@ -65,7 +65,7 @@ public class Jobportal {
         return jobportalId;
     }
 
-    public void setjobportalId(Long empId) {
+    public void setjobportalId(Long jobportalId) {
         jobportalId = jobportalId;
     }
 
