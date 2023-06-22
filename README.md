@@ -1,10 +1,10 @@
 # Exercise-25
 
-## Aim:
+# Aim:
 
 To create an job portal application using SpringBoot and SQL.
 
-## Algorithm:
+# Algorithm:
 
 1.Open Spring Initialzr.
 
@@ -18,9 +18,9 @@ To create an job portal application using SpringBoot and SQL.
 
 6.Connect the database with the SpringBoot.
 
-## Program:
+# Program:
 
-JobPortal.java
+## JobPortal.java:
 ```
 package com.Jobportal.jobportal.job;
 
@@ -115,7 +115,7 @@ public class Jobportal {
 
 ```
 
-applications.properties
+## applications.properties:
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/hosman_db
 spring.datasource.username=postgres
@@ -127,7 +127,7 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ```
 
-App.js
+## App.js:
 ```
 import React from "react"
 import './App.css';
@@ -161,12 +161,13 @@ function App() {
 export default App;
 ```
 
-## Output:
+# Output:
 
 
-![Screenshot (2)](https://github.com/SaiDarshan2003/JobPortalApplication/assets/94692595/699ba8df-3256-4059-b382-1bcc55a92270)
+![image](https://github.com/SOMEASVAR/JobPortalApplication/assets/93434149/fd070540-e3a5-4e5c-aafa-a92a2047bbf6)
 
 
-## Result:
+
+# Result:
 
 Thus we have successfully created an job portal application using SpringBoot and SQL.
